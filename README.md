@@ -65,7 +65,7 @@
   * Random Forest Model thus improve accuracy to Training Score : 85% and Testing Accuracy of 78%
     
     **Performance Metrices of RF based approch :**
-    ![]()
+    ![](Images/final%20RF.PNG)
     
    
   
