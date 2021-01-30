@@ -44,7 +44,7 @@
   ![](Images/data%20cleaning.PNG)
   * Performed Logistic Based Classification Modelling with gained accuracy of 81%.
   
-  **Performance Metrices ofthe Model :**
+  **Performance Metrices of the Model :**
   ![](Images/performances.PNG)
    
   
