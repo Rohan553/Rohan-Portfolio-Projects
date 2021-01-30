@@ -35,17 +35,36 @@
        > After Feature Transformation:
          ![](Images/after%20scatter.PNG)
       
-# [Project 2: Credit_Risk Classification Logistic Regression](https://github.com/Rohan553/credit_risk_logistic)
+# [Project 3: Credit_Risk Classification Logistic Regression](https://github.com/Rohan553/credit_risk_logistic)
   
   * Created a Logistic based Model that helps in predicting if Loan should be alloted to an individual based on given information and past records.
   * Model Trained on 500 data points after discarding Missing Values.
   * Performed EDA to identify the relationships of variables and visually represented the relationship performing different plots and graphs thus identifying if the features     qualifies as a good estimator for Model.
   * Build custom made Data Cleaning Function Python thus Performing basic feature Engineering and Feature Extraction in one go.
-  ![](Images/data%20cleaning.PNG)
+   ![](Images/data%20cleaning.PNG)
   * Performed Logistic Based Classification Modelling with gained accuracy of 81%.
   
   **Performance Metrices of the Model :**
-  ![](Images/performances.PNG)
+   ![](Images/performances.PNG)
+  
+# [Project 4: Telecom Customer Churn Rate - Random Forest Classification](https://github.com/Rohan553/telecom_churn_rate_RF)
+ 
+  * Created Random Forest Classification Based Model to predict behavior to retain customers. 
+  * Detailed analysis of relevant customer data and develop focused customer retention model.
+  * Get the data from ![Telco Customer churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn/download)
+  * Performed EDA to identify the relationships of variables and visually represented the relationship performing different plots and graphs thus identifying if the features     qualifies as a good estimator for Model.
+  * Used toold like Matplotlib , Seaborn and Tableau for visual analysis.
+  * Performed Feature Extraction from given features thus adding more predictive efficiency of the model.
+  * Inline built Python function to automate feature engineering and extraction in one go.
+    ![](Images/data%20cleaning1.PNG)
+  * Performed hit and trial of different parameters values like max_depth , criterion , min_samples_split , min_samples_leaf thus improving accuracy manually of the Single       Decision Tree thus achiving training accuracy of  : 81% and Testing accuracy of : 79%
+  * Performed Random Forest Classifier Based model.
+  * Visualize tree model using GraphViz.
+   ![](Images/tree2.PNG)
+  * Performed Grid Search CV to obtain best parameter values , estimators and score.
+  * Random Forest Model thus improve accuracy to Training Score : 85% and Testing Accuracy of 78%
+    **Performance Metrices of RF based approch :**
+    
    
   
   
