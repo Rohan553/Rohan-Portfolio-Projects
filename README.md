@@ -35,7 +35,7 @@
        > After Feature Transformation:
          ![](Images/after%20scatter.PNG)
       
- # [Project 2: Credit_Risk Classification Logistic Regression](https://github.com/Rohan553/credit_risk_logistic)
+# [Project 2: Credit_Risk Classification Logistic Regression](https://github.com/Rohan553/credit_risk_logistic)
   
   * Created a Logistic based Model that helps in predicting if Loan should be alloted to an individual based on given information and past records.
   * Model Trained on 500 data points after discarding Missing Values.
