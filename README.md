@@ -12,11 +12,11 @@
     
       > Before Feature Transformation:  
     
-      ![](https://github.com/Rohan553/Rohan-Portfolio-Projects/blob/main/Images/before%20scatter.PNG)             
+      ![](Images/before%20scatter.PNG)             
   
       > After Feature Transformation:
     
-      ![](https://github.com/Rohan553/Rohan-Portfolio-Projects/blob/main/Images/after%20scatter.PNG)
+      ![](Images/after%20scatter.PNG)
   
   
   
