@@ -1,22 +1,22 @@
-# [ Project 1 : Car Selling Price Prediction and API Creation for Users / Deployment](https://github.com/Rohan553/Car-Price-Prod_Deployment)
-      
+# [Project 1: Car Selling Price Prediction and API Creation for Users/Deployment](https://github.com/Rohan553/Car-Price-Prod_Deployment)
+   
    * Created Models predicting the selling Price of Cars based on given inputs by user.
    * Model trained on almost 300 individual data points(cars) of different Features.
    * Performed Feature extractions from given features like calculating age of car given its year of purchase as input.
    * Analyze the features and represented them visually using python libraries like Matplotlib and Seaborn.
    * Performed One-Hot Encoding on estimators like 'Fuel_Type','Seller_Type', 'Transmission.
    * Performed Linear Regression Model for API creation and Deployment Demo Purpose.
-   * Performed Random Forest Regressor as final Model optimizing it through GridSearch CV technique thus ontaining best hyper-parameters and linear trend between predicted        and actual price in the dataset.
+   * Performed Random Forest Regressor as final Model optimizing it through GridSearch CV technique thus obtaining best hyper-parameters and linear trend between predicted        and actual price in the dataset.
    * Designed frontend Client facing HTML form to get inputs from user.
    * Built API using Python Flask application creation and linked it to HTML form.
    * Deployed created application to Heroku Platform as Service on internet.
    * [Heroku Link for the deployed Project](https://id.heroku.com/login) 
       
-     **Final Scatterplot of Actual vs Predicted Count :** 
-   `   ![](Images/car.PNG)
-       
- # [ Project 2 : Bike Sharing Project Linear Model](https://github.com/Rohan553/Bike_Sharing-Linear-Regression)
-   * Created a tool that helps in predicting the number of registered bikes to be hosted at a certain location for rental purpose based on given attributes and monitoring         the available data.
+     **Final Scatterplot of Actual vs Predicted Count**
+     ![](Images/car.PNG)
+     
+  # [Project 2: Bike Sharing Project Linear Model](https://github.com/Rohan553/Bike_Sharing-Linear-Regression)
+   * Created a tool that helps in predicting the number of registered bikes to be hosted at a certain location for rental purpose based on given attributes and monitoring          the available data.
    * Data collected from [UCI Machine Learning DataSource - Bike Sharing](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
    * Performed EDA to identify the relationships of variables and visually represented the relationship performing different plots and graphs thus identifying if the features       qualifies as a good estimator for Model.
    * Used toold like Matplotlib , Seaborn and Tableau for visual analysis.
@@ -32,7 +32,8 @@
          ![](Images/before%20scatter.PNG)             
        > After Feature Transformation:
          ![](Images/after%20scatter.PNG)
-      
+         
+               
   
   
   
