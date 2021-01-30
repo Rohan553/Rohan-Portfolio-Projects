@@ -43,7 +43,8 @@
   * Build custom made Data Cleaning Function Python thus Performing basic feature Engineering and Feature Extraction in one go.
   ![](Images/data%20cleaning.PNG)
   * Performed Logistic Based Classification Modelling with gained accuracy of 81%.
-  **Performance Metrices ofthe Model : **
+  
+  **Performance Metrices ofthe Model :**
   ![](Images/performances.PNG)
    
   
