@@ -51,7 +51,7 @@
  
   * Created Random Forest Classification Based Model to predict behavior to retain customers. 
   * Detailed analysis of relevant customer data and develop focused customer retention model.
-  * Get the data from ![Telco Customer churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn/download)
+  * Get the data from [Telco Customer churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn/download)
   * Performed EDA to identify the relationships of variables and visually represented the relationship performing different plots and graphs thus identifying if the features     qualifies as a good estimator for Model.
   * Used toold like Matplotlib , Seaborn and Tableau for visual analysis.
   * Performed Feature Extraction from given features thus adding more predictive efficiency of the model.
