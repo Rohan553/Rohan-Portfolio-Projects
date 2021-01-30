@@ -1,5 +1,3 @@
-## Portfolio Projects - Rohan
-
 # [ Project 1 : Bike Sharing Project Linear Model](https://github.com/Rohan553/Bike_Sharing-Linear-Regression)
  
   * Created a tool that helps in predicting the number of registered bikes to be hosted at a certain location for rental purpose based on given attributes and monitoring the       available data.
