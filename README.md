@@ -1,6 +1,7 @@
 # [Project 1: Car Selling Price Prediction and API Creation for Users/Deployment](https://github.com/Rohan553/Car-Price-Prod_Deployment)
          
    * Created Models predicting the selling Price of Cars based on given inputs by user.
+   * Data Collected from Kaggle [Car_Price Dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho/download).
    * Model trained on almost 300 individual data points(cars) of different Features.
    * Performed Feature extractions from given features like calculating age of car given its year of purchase as input.
    * Analyze the features and represented them visually using python libraries like Matplotlib and Seaborn.
