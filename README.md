@@ -15,7 +15,7 @@
      **Final Scatterplot of Actual vs Predicted Count**
      ![](Images/car.PNG)
      
-  # [Project 2: Bike Sharing Project Linear Model](https://github.com/Rohan553/Bike_Sharing-Linear-Regression)
+# [Project 2: Bike Sharing Project Linear Model](https://github.com/Rohan553/Bike_Sharing-Linear-Regression)
    
    * Created a tool that helps in predicting the number of registered bikes to be hosted at a certain location for rental purpose based on given attributes and monitoring          the available data.
    * Data collected from [UCI Machine Learning DataSource - Bike Sharing](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
