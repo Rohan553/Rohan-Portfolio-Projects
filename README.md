@@ -41,7 +41,7 @@
   * Model Trained on 500 data points after discarding Missing Values.
   * Performed EDA to identify the relationships of variables and visually represented the relationship performing different plots and graphs thus identifying if the features     qualifies as a good estimator for Model.
   * Build custom made Data Cleaning Function Python thus Performing basic feature Engineering and Feature Extraction in one go.
-   ![](Images/data%20cleaning.PNG)
+   ![](Images/credit_risk.PNG)
   * Performed Logistic Based Classification Modelling with gained accuracy of 81%.
   
   **Performance Metrices of the Model :**
@@ -63,7 +63,9 @@
    ![](Images/tree2.PNG)
   * Performed Grid Search CV to obtain best parameter values , estimators and score.
   * Random Forest Model thus improve accuracy to Training Score : 85% and Testing Accuracy of 78%
+    
     **Performance Metrices of RF based approch :**
+    ![]()
     
    
   
