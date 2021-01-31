@@ -1,4 +1,4 @@
-# [Project 1: Car Selling Price Prediction and API Creation for Users/Deployment](https://github.com/Rohan553/Car-Price-Prod_Deployment)
+# [Project 1: Car Selling Price Prediction and frontend API Creation for Users/Deployment](https://github.com/Rohan553/Car-Price-Prod_Deployment)
          
    * Created Models predicting the selling Price of Cars based on given inputs by user.
    * Data Collected from Kaggle [Car_Price Dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho/download).
@@ -9,10 +9,7 @@
    * Performed Linear Regression Model for API creation and Deployment Demo Purpose.
    * Performed Random Forest Regressor as final Model optimizing it through GridSearch CV technique thus obtaining best hyper-parameters and linear trend between predicted        and actual price in the dataset.
    * Designed frontend Client facing HTML form to get inputs from user.
-   * Built API using Python Flask application creation and linked it to HTML form.
-   * Deployed created application to Heroku Platform as Service on internet.
-   * [Heroku Link for the deployed Project](https://id.heroku.com/login) 
-      
+   * Built API using Python Flask application creation and linked it to HTML form.   
      **Final Scatterplot of Actual vs Predicted Count**
      ![](Images/car.PNG)
      
